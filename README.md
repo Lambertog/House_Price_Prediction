@@ -1,2 +1,1 @@
-# Regression_Analysis
-This is a predictive analyses using/comparing different regression analysis techniques.
+Prediciting prices of house in an area in the United States of America given the size of the land,distance from the city centre,and crime rate in the region.This is a predictive analyses using/comparing different regression analysis techniques. A simple linear regression model was used to predict prices with considering only the area of the land.
